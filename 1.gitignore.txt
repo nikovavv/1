@@ -1,0 +1,20 @@
+# Сборка Qt
+build-*/
+*.user
+*.autosave
+
+# Бинарные и временные файлы
+*.o
+*.a
+*.so
+*.dll
+*.exe
+
+# Qt Creator
+.cache/
+*.pro.user*
+*.qmlc
+*.jom
+
+# macOS
+.DS_Store
